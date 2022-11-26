@@ -3,4 +3,4 @@
 
 
 
-##**Portfolio link.....    https://portfolio-rose-zeta-33.vercel.app     **
+##**Portfolio link.....   https://yuvrajyadavportfolio.netlify.app/     **
